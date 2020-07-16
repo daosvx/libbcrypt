@@ -1,4 +1,5 @@
 # libbcrypt
+TESTING!
 A c++ wrapper around bcrypt password hashing
 
 ## How to build this
